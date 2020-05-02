@@ -1,0 +1,31 @@
+{
+  "name": "vcmrefunc",
+  "version": "1.0.0",
+  "description": "The right way to repeat a process",
+  "main": "app.js",
+  "authors": [
+    "Dali Kewara"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "tool",
+    "toolkit",
+    "vascomm",
+    "function",
+    "repeat",
+    "interval",
+    "helper"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalikewara/vcmrefunc.git"
+  },
+  "homepage": "https://github.com/dalikewara/vcmrefunc",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]  
+}
