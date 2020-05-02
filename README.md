@@ -11,7 +11,7 @@
 
 # The right way to repeat a process
 
-This module helps you to repeat a process again after its completely executed. You can specify a condition to stop the repetition immediately by giving a command `repeat(false)` inside the `repeat_function`. Also, there is an option to pass a callback that will be executed after the repetition is finished.
+This module helps you to repeat a process again after it completely executed. You can specify a condition to stop the repetition immediately by giving a command `repeat(false)` inside the `repeat_function`. Also, there is an option to pass a callback that will be executed after the repetition is finished.
 
 This is simple, easy to use, and clean code.
 
