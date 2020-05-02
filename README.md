@@ -18,13 +18,13 @@ This is simple, easy to use, and clean code.
 ### Installation
 NPM
 
-```console
+```bash
 npm install vcmrefunc --save
 ```
 
 Browser
 
-```console
+```bash
 // Bower
 bower install vcmrefunc --save
 ```
@@ -85,7 +85,7 @@ vcmrefunc(0, (repeat) => {
 
 And you'll have output:
 
-```console
+```bash
 Repeated 0
 Repeated 1
 Repeated 2
@@ -113,7 +113,7 @@ vcmrefunc(0, (repeat) => {
 
 And the output will be:
 
-```console
+```bash
 Repeated 0
 Repeated 1
 Repeated 2
@@ -164,7 +164,7 @@ vcmrefunc(2000, (repeat) => {
 
 Output:
 
-```console
+```bash
 Repeated 0
 This is my asynchronous function
 Repeated 1
